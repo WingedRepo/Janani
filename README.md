@@ -5,10 +5,11 @@ According to a survey conducted, 1 out of every 17 miscarriages happen due to a 
 
 A solution to provide digital pregnancy support accessible to pregnant women specifically in India, regardless of caste, creed, race, religious, socioeconomic, cultural, and geographical background, using Artificial intelligence.
 We are providing a solution that provides 360 degree care to pregnant women.
-We have divided our target audience into two graoups
+We have divided our target audience into two groups :
 1. the rural women
 2. the urban women
 
+Our features include : 
 1.  Information about local support services and schemes such as Asha Bahu, scraping government websites for the data of health workers and making it availvable to the general public
 2.	Location detection of nearby Hospitals, using Random Forest Classification Algorithm
 3.	Chat Bot for additional support using AI
