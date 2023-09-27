@@ -9,6 +9,15 @@ We have divided our target audience into two groups :
 1. the rural women
 2. the urban women
 
+Overview : 
+ Guided a team of 3 to design a website providing 360 degree care to pregnant women. Modeled a Web Scraper
+to scrape ASHA workers’ data from Govt. website. Built a Chatbot for round-the-clock queries.
+◦ Programmed a Health Status Prediction Model to predict user’s health status, trained using Random
+Forest Classification Algorithm for tracking and displaying data of Hospitals within 20 km proximity of
+current location in real time.
+◦ Designed and integrated three other features including a Mood Tracker for insightful mood analysis, Song
+Playlist Player leveraging scientific Alpha and Beta wave music for optimized listening and a Digital Journal.
+
 Our features include : 
 1.  Information about local support services and schemes such as Asha Bahu, scraping government websites for the data of health workers and making it availvable to the general public
 2.	Location detection of nearby Hospitals, using Random Forest Classification Algorithm
