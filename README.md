@@ -4,6 +4,8 @@ Designed a website to provide 360 degree care to pregnant women, 24/7. Below are
 According to a survey conducted, 1 out of every 17 miscarriages happen due to a lack of awareness and information about pregnancy and its needs. 
 
 A solution to provide digital pregnancy support accessible to pregnant women specifically in India, regardless of caste, creed, race, religious, socioeconomic, cultural, and geographical background, using Artificial intelligence.
+Here's a presentation for our solution : 
+https://docs.google.com/presentation/d/1Cf3MvXk9aZrXj9P85OwKzsneD3YVtJ-kn8vGpL_mEcM/edit#slide=id.g23d2ea57c3a_0_48
 We are providing a solution that provides 360 degree care to pregnant women.
 We have divided our target audience into two groups :
 1. the rural women
