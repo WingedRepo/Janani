@@ -73,4 +73,16 @@ img 5 : Data(available for public) extrated from Govt Websites
 ![Screenshot 2023-08-25 010424 - Copy](https://github.com/SinghShuchita/Janani/assets/105635978/bab06a6e-9276-49ba-a031-31f63408dda1)
 img 6 : ML based BP Model trained on data using Random Forest Classification
 
+![image](https://github.com/SinghShuchita/Janani/assets/105635978/f64f6899-9150-427e-92ad-d3f9974c9e0a)
+img 7 : Stri : a chat bot that will answer all your queries!
+
+![image](https://github.com/SinghShuchita/Janani/assets/105635978/3bbf2da0-c9c7-45a3-9873-54e7a49a430c)
+img 8 : a song playlist with scientific alpha and beta wave music to help soothen your mood
+
+![image](https://github.com/SinghShuchita/Janani/assets/105635978/96744a52-601b-437b-a884-24e47a572410)
+img 9 : a journal - to note down you ups and downs as you steer through pregnancy
+
+
+
+
 
