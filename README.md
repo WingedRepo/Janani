@@ -6,8 +6,8 @@ According to a survey conducted, 1 out of every 17 miscarriages happen due to a 
 A solution to provide digital pregnancy support accessible to pregnant women specifically in India, regardless of caste, creed, race, religious, socioeconomic, cultural, and geographical background, using Artificial intelligence.
 Here's a presentation for our solution : 
 
-
-<a href="[https://docs.google.com/presentation/d/1Cf3MvXk9aZrXj9P85OwKzsneD3YVtJ-kn8vGpL_mEcM/edit#slide=id.g23d2ea57c3a_0_48]" target="_blank">Presentation : Summarisation and UML diagrams</a>
+Presentation : Summarisation and UML diagrams
+https://docs.google.com/presentation/d/1Cf3MvXk9aZrXj9P85OwKzsneD3YVtJ-kn8vGpL_mEcM/edit#slide=id.g23d2ea57c3a_0_48
 
 
 We are providing a solution that provides 360 degree care to pregnant women.
