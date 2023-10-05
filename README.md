@@ -54,12 +54,16 @@ Future Scope :
 
 
 ![WhatsApp Image 2023-08-25 at 00 46 49](https://github.com/SinghShuchita/Janani/assets/105635978/5bb3305a-f2cf-49e3-90fb-59c16a52257e)
+img 1 : The user interface
 
 ![WhatsApp Image 2023-08-25 at 00 46 48](https://github.com/SinghShuchita/Janani/assets/105635978/3462899c-dcde-4130-93d9-448eee2a52ef)
+img 2 : Some of the many functionalities that we provide
 
 ![Screenshot 2023-08-25 010424](https://github.com/SinghShuchita/Janani/assets/105635978/2e590939-de3f-4345-a05d-195c8e570b8f)
+img 3 : Scraping Asha Worker's Data from Govt. Websites
 
 ![Screenshot 2023-08-25 010722](https://github.com/SinghShuchita/Janani/assets/105635978/fa04114e-a405-4138-b1e4-d888f4f5833d)
 
 ![image](https://github.com/SinghShuchita/Janani/assets/105635978/1fb4fa02-7112-48b8-a6ed-d2f620b3c811)
+img 4 : Tracking Real Time Hospital Data within a 20 km radius and displaying the data in a tabular format
 
