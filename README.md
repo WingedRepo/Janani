@@ -70,4 +70,7 @@ img 4 : Tracking Real Time Hospital Data within a 20 km radius and displaying th
 ![image](https://github.com/SinghShuchita/Janani/assets/105635978/1fb4fa02-7112-48b8-a6ed-d2f620b3c811)
 img 5 : Data(available for public) extrated from Govt Websites
 
+![Screenshot 2023-08-25 010424 - Copy](https://github.com/SinghShuchita/Janani/assets/105635978/bab06a6e-9276-49ba-a031-31f63408dda1)
+img 6 : ML based BP Model trained on data using Random Forest Classification
+
 
