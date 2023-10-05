@@ -60,3 +60,6 @@ Future Scope :
 ![Screenshot 2023-08-25 010424](https://github.com/SinghShuchita/Janani/assets/105635978/2e590939-de3f-4345-a05d-195c8e570b8f)
 
 ![Screenshot 2023-08-25 010722](https://github.com/SinghShuchita/Janani/assets/105635978/fa04114e-a405-4138-b1e4-d888f4f5833d)
+
+![image](https://github.com/SinghShuchita/Janani/assets/105635978/1fb4fa02-7112-48b8-a6ed-d2f620b3c811)
+
