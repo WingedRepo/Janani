@@ -1,0 +1,32 @@
+According to a survey, 1 out of 17 miscarriages happens due to lack of knowledge and awareness that pregnancy needs. 
+preg is a very critical stage in a woman's life which needs to be taken proper care of.
+In India, especially in the rural areas, due to scarcity in the number of doctors, there's huge pressure on them, which lessens the time doctors devote to them. Ultimatly, they are not able to deliver the necessary knowledge and information that these women need.  
+
+So today, we are providing a solution that provides 360* care to pregnant women.
+We have divided our target audience into two graoups
+1. the rural women
+2. the urban women
+
+as of now we have 15-20 features in our bukcet list which we have divided into two groups, must-have and good to have
+
+for the rural women, we have one major feature through which the women will be able to view a list of all the available ASHAS in their area and contact them
+
+now who are these asha workers?
+they are government-trained community health workers who are responsible for providing essential healthcare services and info at grassroot levels in the rural areas. 
+
+the other features include:
+1. view nearby hospitals through which the user can view the contact details as well as addresses of hospitals in a radius 20kms.
+2. SOS feature through which an sos will be sent to one hospital and emergency contacts when a button is pressed for 3 secs
+3. a mood tracker as well as note taking feature through which user can journalize her pregnancy journey
+4. a chat bot for the user's general queries
+5. Community support
+6. set reminders for mdedicines and appointment
+7. share data with government
+8. blogs and articles on other government schemes, parenting guide, baby products suggestion, yoga and exercise guide, indian food guide, etc
+13. measure bp and spo2 and view gathered data
+9. a songs playlist which will contain list of scientifically approved songs for pregnancy
+10. a login page
+11. video guide for rural women
+12. language support
+14. choose avatar
+15. 
