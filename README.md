@@ -83,6 +83,9 @@ img 8 : a song playlist with scientific alpha and beta wave music to help soothe
 img 9 : a journal - to note down you ups and downs as you steer through pregnancy
 ![image](https://github.com/SinghShuchita/Janani/assets/105635978/ce49e443-6baf-48cf-9823-8e610c76c4fe)
 img 10 : our team
+![image](https://github.com/SinghShuchita/Janani/assets/105635978/4c3a9902-38ea-4906-8978-56003e9e7bca)
+img 11 : contact us
+
 
 
 
