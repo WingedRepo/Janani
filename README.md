@@ -54,6 +54,7 @@ Future Scope :
 5. SOS feature through which an sos will be sent to one hospital and emergency contacts when a button is pressed for 3 secs
 6. Monetization by allowing companies to sell their baby care and other products on site (we value our users and don't want to extort money from them xD) 
 
+![image](https://github.com/SinghShuchita/Janani/assets/105635978/b8774244-2371-4f39-a78d-8dbbdf9c23b9)
 
 ![WhatsApp Image 2023-08-25 at 00 46 49](https://github.com/SinghShuchita/Janani/assets/105635978/5bb3305a-f2cf-49e3-90fb-59c16a52257e)
 img 1 : The user interface
