@@ -55,11 +55,10 @@ Future Scope :
 6. Monetization by allowing companies to sell their baby care and other products on site (we value our users and don't want to extort money from them xD) 
 
 ![image](https://github.com/SinghShuchita/Janani/assets/105635978/b8774244-2371-4f39-a78d-8dbbdf9c23b9)
-
-![WhatsApp Image 2023-08-25 at 00 46 49](https://github.com/SinghShuchita/Janani/assets/105635978/5bb3305a-f2cf-49e3-90fb-59c16a52257e)
 img 1 : The user interface
 
-![WhatsApp Image 2023-08-25 at 00 46 48](https://github.com/SinghShuchita/Janani/assets/105635978/3462899c-dcde-4130-93d9-448eee2a52ef)
+![image](https://github.com/SinghShuchita/Janani/assets/105635978/278c6a17-270e-4611-a87e-47413e890f04)
+
 img 2 : Some of the many functionalities that we provide
 
 ![Screenshot 2023-08-25 010424](https://github.com/SinghShuchita/Janani/assets/105635978/2e590939-de3f-4345-a05d-195c8e570b8f)
@@ -82,6 +81,8 @@ img 8 : a song playlist with scientific alpha and beta wave music to help soothe
 
 ![image](https://github.com/SinghShuchita/Janani/assets/105635978/96744a52-601b-437b-a884-24e47a572410)
 img 9 : a journal - to note down you ups and downs as you steer through pregnancy
+![image](https://github.com/SinghShuchita/Janani/assets/105635978/ce49e443-6baf-48cf-9823-8e610c76c4fe)
+img 10 : our team
 
 
 
